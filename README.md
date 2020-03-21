@@ -1,24 +1,12 @@
-# test
+仿卖座电影的一个简易小网站页面
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+数据来源于截取的卖座电影的接口
 
-### Compiles and minifies for production
-```
-npm run build
-```
+头部导航栏使用二级路由进行跳转
 
-### Lints and fixes files
-```
-npm run lint
-```
+“正在热映”组件下的电影数据由动态路由跳转到电影详情中
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+底部导航栏使用一级路由进行跳转
+
+“即将上映”组件下的电影数据由Vuex的异步请求进行获取
