@@ -1,4 +1,6 @@
 <h2>使用Vue开发的一个仿卖座电影的简易小网站页面</h2>
+
+预览图如下
 <div>
 <img src="screenshots/nowplaying.png" width="300px" height="500px"/>
 <img src="screenshots/comingsoon.png" width="300px" height="500px"/>
