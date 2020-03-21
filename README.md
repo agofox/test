@@ -1,5 +1,5 @@
 仿卖座电影的一个简易小网站页面
-![](test/screenshots/MQ)00D9X[KI9CJ5N0~~E~JT.png)
+![img](/test/screenshots/MQ)00D9X[KI9CJ5N0~~E~JT.png)
 
 
 数据来源于截取的卖座电影的接口
