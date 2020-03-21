@@ -1,7 +1,7 @@
 <h2>仿卖座电影的一个简易小网站页面</h2>
 <div>
-<img src="screenshots/nowplaying.png" width="30%" />
-<img src="screenshots/comingsoon.png" width="29%" />
+<img src="screenshots/nowplaying.png" width="300px" height="500px"/>
+<img src="screenshots/comingsoon.png" width="300px" height="500px"/>
 </div>
 
 数据来源于截取的卖座电影的接口
