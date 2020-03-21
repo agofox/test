@@ -1,4 +1,5 @@
 仿卖座电影的一个简易小网站页面
+![img](screenshots/nowplaying.png)
 ![img](screenshots/comingsoon.png)
 
 
