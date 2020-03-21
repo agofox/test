@@ -1,6 +1,6 @@
 仿卖座电影的一个简易小网站页面
-![img](screenshots/nowplaying.png)
-![img](screenshots/comingsoon.png)
+![img](screenshots/nowplaying.png width="30%")
+![img](screenshots/comingsoon.png width="30%")
 
 
 数据来源于截取的卖座电影的接口
